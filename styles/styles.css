@@ -1,12 +1,14 @@
-.logo_firefox {
+/* .logo_firefox {
     display: block;
     margin: 0 auto;
     height: 200px;
     width: 200px;
 }
-
+#home{
+    width: 75px;
+}
 .logo{
-    width: 200px;
+    width: 100px;
     margin:0 auto;
 }
 
@@ -23,20 +25,447 @@ h1 {
     font-size: 60px;
     text-align: center;
     
-}
+} */
 
+/* 
 body{
-    background-color: #bfa;
-    /* width: 600px; */
-    margin: 0 auto;
+    background-color: #bfa; */
+
+/* width: 600px; */
+
+/* margin: 0 auto;
     padding: 20px;
-    padding-top: 0;
-    /* border: 5px solid rgb(165, 155, 155); */
+    padding-top: 0; */
 
-}
+/* border: 5px solid rgb(165, 155, 155); */
 
+/* } */
+
+/* 
 p, li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
+} */
+
+/* html {
+    background-color: green;
+    font-size: 20px;
+  }
+  
+  ul {
+    background: red;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  li {
+    margin-left: 20px;
+  } */
+
+/* =========================== */
+
+/* body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .sender-column {
+    text-align: right;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  p,ul,ol,dl,address {
+    font-size: 1.1em;
+  }
+  
+  p, li, dd, dt, address {
+    line-height: 1.5;
+  } */
+
+/* =================== */
+
+/* p {
+  background-image: url("../images/CPM.png");
+} */
+
+/* ------------------ */
+
+/* body {
+  background: url("../images/equilateral.svg") no-repeat center;
+  background-image: url("../images/equilateral.svg");
+  background-size: contain;
+} */
+
+/* html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}
+
+caption {
+  padding: 10px;
+} */
+
+/* html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}
+
+caption {
+  padding: 10px;
+} */
+
+/* 
+html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+} */
+
+/* 
+th {
+  background-color: rgb(235,235,235);
+} */
+
+/* td {
+  text-align: center;
+} */
+
+/* tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+} */
+
+/* caption {
+  padding: 10px;
+} */
+
+/* 
+html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}
+
+caption {
+  padding: 10px;
+} */
+
+/* html {
+  font-family: sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}
+
+caption {
+  padding: 10px;
+} */
+
+/* html {
+  font-family: sans-serif;
+
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235,235,235);
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) td {
+  background-color: rgb(250,250,250);
+}
+
+tr:nth-child(odd) td {
+  background-color: rgb(245,245,245);
+}
+
+caption {
+  padding: 10px;
+} */
+
+/* h1{
+  color:red;
+}
+p, li {
+  color: green;
+}
+li {
+  list-style-type: square ;
+}
+li.special{
+  color:orange;
+  font-weight: bold;
+} */
+
+/* li em {
+  color: red;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+p span{
+  color:red;
+}
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: red;
+} */
+
+/* 
+.s {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+.box {
+  margin: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+  transform: rotate(0.1turn)
+} */
+
+/* 
+body {
+  background-color: pink;
+}
+
+@media (min-width: 110em) {
+  body {
+    background-color: blue;
+  }
+} */
+
+/* 
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1em;
+  margin: 0;
+}
+
+h1 {
+  color: #375e97;
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: 1px solid #375e97;
+  color:hotpink;
+  border-bottom: 10px dotted purple;
+  
+}
+
+h2 {
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.job-title {
+  color: #999999;
+  font-weight: bold;
+}
+
+a:link,
+a:visited {
+  color: #fb6542;
+}
+
+a:hover {
+  text-decoration: none;
+  color: green;
+}
+ul{
+  border:5px solid purple;
+  background-color: #eee;
+  padding: 40px 20px;
+  font-size: large;
+  line-height: 2em;
+
+} */
+
+body {
+  all: unset;
+}
+
+.my-class-1 {
+  color: inherit;
+}
+
+.my-class-2 {
+  color: initial;
+}
+
+.my-class-3 {
+  all: initial;
+}
+
+blockquote {
+ 
+  background-color: red;
+  border: 2px solid green;
+}
+
+.fix-this {
+  all: initial;
 }
