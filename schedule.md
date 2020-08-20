@@ -123,3 +123,7 @@ web开发
 >       >       > 1. [CSS构建](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks)
 >       >       > 1. [层叠与继承](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 >       >       > 1. [CSS选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors)
+>       >       > 1. [类型、类和ID选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
+>       >       > 1. [属性选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors)
+>       >       > 1. [伪类和伪元素](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)
+>       >       > 1. []()
